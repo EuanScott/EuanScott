@@ -4,7 +4,7 @@
 - 💞️  ~~I’m looking to collaborate on~~ I'm doing my own thing!
 - 📫  How to reach me either via [LinkedIn](https://www.linkedin.com/in/euan-scott-software-developer-7361b9121/) or email (edscott95@gmail.com)
 
-[![Euan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuanScott&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Euan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuanScott&count_private=true&show_icons=true&theme=monokai)](https://github.com/EuanScott)
 
 <!---
 https://github.com/anuraghazra/github-readme-stats
