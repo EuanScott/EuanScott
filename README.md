@@ -1,5 +1,5 @@
 <div align="center" style="border-bottom: 2px solid #FF0060; padding: 8px; margin-bottom: 16px;">
-  <h1 style="border: none; padding: 0; margin: 0;">Hi, I'm Euan Scott</h1>
+  <h3 style="border: none; padding: 0; margin: 0; font-size: 32px;">Hi, I'm Euan Scott</h3>
   <h3>A Scottish - South African, born and bred way down south!</h3>
 </div>
 
