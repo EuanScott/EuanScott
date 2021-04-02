@@ -1,16 +1,9 @@
 <div align="center" style="border-bottom: 2px solid #FF0060; padding: 8px; margin-bottom: 16px;">
-  <table style="width:100%">
-    <tr>
-      <td>
-        <h1 style="border: none; padding: 0; margin: 0;">Hi, I'm Euan Scott</h1>
-        <h3>A Scottish - South African, born and bred way down south!</h3>
-      </td>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=EuanScott"/>
-      </td>
-    </tr>
-  </table>
+  <h1 style="border: none; padding: 0; margin: 0;">Hi, I'm Euan Scott</h1>
+  <h3>A Scottish - South African, born and bred way down south!</h3>
 </div>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=EuanScott"/> -->
 
 ## Technologies/Frameworks that I am actively working with:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
