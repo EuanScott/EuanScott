@@ -26,6 +26,14 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+## TODO:
+
+- [ ] Complete [uDemy Flutter Course](#https://www.udemy.com/course/flutter-bootcamp-with-dart/).
+- [ ] Create App Template in the Ionic Framework (as a basis).
+- [ ] Re-create the Ionic App in Flutter using everything that I have learnt.
+- [ ] Create the app as a Desktop App.
+- [ ] Repeat (just not step 1)!
+
 ## Reach out to me:
 [![LinkedOn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euan-scott-software-developer-7361b9121/)&nbsp;
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edscott95@gmail.com)
@@ -38,14 +46,11 @@
 </div>
 
 <!---
+Resources:
+
 https://github.com/anuraghazra/github-readme-stats
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 https://github.com/coderjojo/creative-profile-readme
---->
-
-<!---
-EuanScott/EuanScott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
