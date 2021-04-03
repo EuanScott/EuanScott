@@ -29,7 +29,7 @@
 ## TODO:
 
 - [ ] Complete [uDemy Flutter Course](#https://www.udemy.com/course/flutter-bootcamp-with-dart/).
-- [ ] Create App Template in the Ionic Framework (as a basis).
+- [ ] Create an App Template in the Ionic Framework (as a basis).
 - [ ] Re-create the Ionic App in Flutter using everything that I have learnt.
 - [ ] Create the app as a Desktop App.
 - [ ] Repeat (just not step 1)!
