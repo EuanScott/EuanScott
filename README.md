@@ -47,7 +47,7 @@
 
 <div align="center" style="margin-top: 32px;">
 
-[![Euan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuanScott&count_private=true&show_icons=true&theme=monokai)](https://github.com/EuanScott)
+[![Euan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuanScott&count_private=true&show_icons=true&theme=dark)](https://github.com/EuanScott)
 
 </div>
 </div>
