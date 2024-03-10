@@ -1,7 +1,7 @@
 <div style=" background: rgba(128, 128, 128, 0.1); padding: 9px; border-radius: 4px;">
 <div style="border-bottom: 2px solid #FF0060; padding: 8px; margin-bottom: 16px;">
   <h1 style="border: none; padding: 0; margin: 0; font-size: 32px;">Hiya 👋, I'm Euan Scott</h1>
-<!--   <h3>A Scottish - South African, born and bred way down south!</h3> -->
+  <h3>A Scottish - South African, born and bred way down south!</h3>
 </div>
 
 ### Languages and Tools:  
