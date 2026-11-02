@@ -1,4 +1,5 @@
 - 👋  Hi, I’m Euan Scott.
 - 👀  I enjoy all things mobile.
 - 🌱  I’m currently learning Flutter, Leadership and trying to improve the Developer Experience (DX).
+- 👷‍♂️ I enjoy platform work and building things to make others work easier and more enjoyable.
 - 📫  Check me out at https://euanscott.github.io/.
